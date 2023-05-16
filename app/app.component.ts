@@ -6,13 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'first-app';
+  title = 'my-dream-app';
 }
-
-//Module
-  //Component - new html tag (Html, css, ts)
-      //bank selector // project component'
-      //range-date-picker // cross projects
-      //add-new-customer // page component
-  //Directive
-  //Pipes
